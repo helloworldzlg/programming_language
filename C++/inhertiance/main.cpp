@@ -65,6 +65,8 @@ int main()
 	
 	delete jim;
 	
+	cout << "main finished!" << endl;
+	
 	return 0;
 } 
 
